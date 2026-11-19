@@ -1,0 +1,5 @@
+This code is released for research reproducibility.
+Datasets (LEVIR-CD, WHU-CD, S2Looking) remain under their original
+licences and are not redistributed here. The BIT implementation used
+for cross-architecture validation is by its original authors
+(https://github.com/justchenhao/BIT_CD).
